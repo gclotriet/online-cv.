@@ -1,0 +1,153 @@
+sidebar:
+  about: false
+  education: true
+  name: Christo Lotriet
+  tagline: Software Developer
+  avatar: profile.png
+  email: gclotriet@gmail.com
+  phone: +27 81 269 3673
+  website: 
+  linkedin: gclotriet
+  github: gclotriet
+  gitlab:
+  bitbucket:
+  twitter: gclotriet
+  stack-overflow:
+  codewars:
+  languages:
+    - idiom: English
+      level: Professional
+    - idiom: Afrikaans
+      level: Native
+  interests:
+    - item: Documentaries
+      link:
+career-profile:
+  title: Career Profile
+  summary: >-
+    Throughout my career i have predominantly been working in the Delphi space,
+    I have gained a lot of experience as a software developer and am constantly 
+    expanding my skill set.
+education:
+  - degree: NDip
+    university: Technikon Pretoria
+    time: 1998
+    details: National Diploma - Electrical Engineering (Digital Technology)
+  - degree: BSc in Computer Science
+    university: University of South Africa
+    time: 2008
+    details: BSc Computer Science & Information Systems  (Software Engineering)
+experiences:
+  - role: Software Developer
+    time: 2020 - Present
+    company: <a href="https://www.discovery.co.za">Discovery</a>
+    details: >-
+      Development and maintenance on Discovery Invest products.
+  - role: Software Developer
+    time: 2017 - 2020
+    company: <a href="https://altronhealthtech.com/">MedeMass</a>
+    details: >-
+      Development and maintenance on a wide range of practice management
+      products including the flagship product Elixir live.
+  - role: Software Developer
+    time: 2015 - 2017
+    company: <a href="https://www.nosa.co.za">NOSA</a>
+    details: Development and design of new modules for occupational health software.
+  - role: Sotfware Developer
+    time: 2014 - 2015
+    company: <a href="http://www.wagersoft.co.za">Wagersoft</a>
+    details: >-
+      New development and design of back end systems and maintenance of existing
+      applications as well as Database administration.
+  - role: Software Developer
+    time: 2011 - 2014
+    company: HealthRad
+    #company: <a href="http://www.healthrad.co.za/">HealthRad</a>
+    details: >-
+      Responsible for front and back end development and design of the Company’s
+      products which include dictation and a radiology information system used
+      by several radiology practices nationwide in order to capture patient data
+      and manage financial information.
+  - role: Software Developer
+    time: 2006 - 2011
+    company: LGR Telecommunications
+    #company: <a href="http://www.lgr.biz">LGR Telecommunications</a>    
+    details: >-
+      Responsible for front and back end development and design of the Company’s
+      products which Core business is the provision and management of the
+      world’s foremost, end-to-end Data Warehouse (DW) and Business Intelligence
+      (BI) systems at leading international operators including AT&T, Telstra,
+      MTN and many other networks.
+  - role: Software Developer
+    time: 2005 - 2006
+    company: Orbtech
+    details: >-
+      Development and design of Vehicle Tracking Software including extensive
+      reporting on vehicle tracks, location, stops, mileage, speed, idle time,
+      trip time, fuel consumption.
+  - role: Software Developer
+    time: 2000 - 2005
+    company: <a href="https://www.liquidauto.co.za/">Liquid Automation Systems</a>        
+    details: >-
+      Development of Electronic Delivery Information System for Johannesburg
+      International Airport Fuelling Services. Development of Optimized Modular
+      Inventory Management system, a low cost, practical inventory management
+      system that monitors and reconciles incoming, stored, transferred and
+      outgoing inventory.
+  - role: Software Developer
+    time: 1999 - 1999
+    company: Thaba Micro Loans
+    details: >-
+      Micro lending application.
+  - role: Technician
+    time: 1997 - 1999
+    company: <a href="http://www.pinnacle.co.za//">Pinnacle Micro</a>        
+    details: >-
+     Component level repairs to Notebooks & different hardware including all pc
+     accessories. Providing software support at helpdesk. 
+     Setup and configuration of software of all hardware devices sold.      
+  - role: Technician
+    time: 1997 - 1999
+    company: Technicare Computer Services
+    details: >-
+     Practical training component required for engineering diploma which included
+     component level repairs to electronic circuit boards, mostly printers and power supplies.          
+projects:
+  title: Exposure
+  intro: >-
+    Work exposure during my career includes but is not limited to.. 
+    - Hardware
+    - Product research and design
+    - Client support and problem solving
+    - Data integrity testing and analysis
+    - Work in agile teams (Scrum)
+    - OOP implementation    
+    - QlikView development and design    
+    - REST development    
+    - Database exposure (MySQL, PostgreSQL, SQL Server, Oracle, Firebird, SQLite)        
+publications:
+  title: My mission
+  intro: >-
+    I have worked in the hardware and software industry for many years and have
+    learnt that every industry is different and has its own challenges.  I am
+    willing and able to adapt and learn and to do what is necessary to meet any
+    new challenge in my career. I am open to any new and existing technologies
+    and eager to learn and implement them.
+skills:
+  title: Skills &amp; Proficiency
+  toolset:
+    - name: Delphi
+      level: 90%
+    - name: SQL
+      level: 90%
+    - name: 'C#'
+      level: 50%
+    - name: HTML5 & CSS
+      level: 50%
+    - name: Jekyll
+      level: 50%
+    - name: CVS / Subversion / Git
+      level: 90%      
+    - name: Javascript
+      level: 40%            
+footer:
